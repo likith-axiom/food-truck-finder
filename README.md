@@ -5,7 +5,6 @@
 **Likith S**
 
 - 📧 Email: [likiths2501@gmail.com](mailto:likiths2501@gmail.com)
-- 📱 Phone: +91 97417 52107
 - 💻 GitHub: [github.com/likith01](https://github.com/likith01)
 - 💼 LinkedIn: [linkedin.com/in/likith-s-452315226](https://www.linkedin.com/in/likith-s-452315226/)
 
